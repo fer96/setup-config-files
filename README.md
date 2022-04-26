@@ -19,7 +19,7 @@ An easy way to setup my personal settings for terminal and xcode
 5. Open terminal preferences and `(cmd + ,)`
 6. Go to profiles
 7. Select add profile
-8. Import `terminal-files/custom-96.terminal` profile and select as your default
+8. Import `terminal-files/dark-colorful.terminal` profile and select as your default
 9. Close and restart the terminal to see the changes
 
 ## Xcode
@@ -37,3 +37,10 @@ An easy way to setup my personal settings for terminal and xcode
 2. Open Xcode
 3. Open Xcode Behaviors
 4. Add one sound for any behaviour that you want
+
+#### Theme 
+1. Download `xcode-files/themes` from this repo
+2. open `/Applications/Xcode.app/Contents/SharedFrameworks/DVTUserInterfaceKit.framework/Versions/A/Resources/FontAndColorThemes` 
+3. Add `dark-colorful.xccolortheme` theme there
+4. Select your new theme in Xcode
+5. If you don't see your new theme in xcode just open one of the default xcode themes in any text editor and replace the content with your custom theme
