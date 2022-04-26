@@ -21,3 +21,12 @@ An easy way to setup my personal settings for terminal and xcode
 7. Select add profile
 8. Import `terminal-files/custom-96.terminal` profile and select as your default
 9. Close and restart the terminal to see the changes
+
+## Xcode
+
+#### Codesnippets
+
+1. Download `xcode-files/codesnippets` files or any other that you want
+2. Open `~/Library/Developer/Xcode/UserData/CodeSnippets/`
+3. Add your new snippets inside that folder
+4. Close and restart Xcode
