@@ -30,3 +30,10 @@ An easy way to setup my personal settings for terminal and xcode
 2. Open `~/Library/Developer/Xcode/UserData/CodeSnippets/`
 3. Add your new snippets inside that folder
 4. Close and restart Xcode
+
+#### Sounds
+
+1. Download `xcode-files/sounds` files or any other that you want
+2. Open Xcode
+3. Open Xcode Behaviors
+4. Add one sound for any behaviour that you want
