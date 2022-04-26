@@ -1,0 +1,7 @@
+# GIT IGNORE
+
+## MAC OS
+.DS_Store
+
+## Thumbnails
+._*
